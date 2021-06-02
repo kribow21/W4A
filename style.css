@@ -5,33 +5,42 @@ html{
 
 #blockone{
     display: inline-block;
-    width: 10%;
-    height: 70vh;
-    padding: 5em;
+    width: 22vw;
+    height: 100vh;
+    padding: 5px;
     border-style: solid;
     background-color: red;
 }
 #blocktwo{
     display: inline-block;
-    width: 10%;
-    height: 70vh;
-    padding: 5em;
+    width: 22vw;
+    height: 100vh;
+    padding: 5px;
     border-style: solid;
     background-color: green;
 }
 #blockthree{
     display: inline-block;
-    width: 10%;
-    height: 70vh;
-    padding: 5em;
+    width: 22vw;
+    height: 100vh;
+    padding: 5px;
     border-style: solid;
     background-color: blue;
 }
 #blockfour{
     display: inline-block;
-    width: 10%;
-    height: 70vh;
-    padding: 5em;
+    width: 22vw;
+    height: 100vh;
+    padding: 5px;
     border-style: solid;
     background-color: purple;
+}
+html{
+    font-size: 2rem;
+}
+main > p{
+    font-size: 1em;
+}
+h3{
+    font-size: 100%;
 }
