@@ -1,0 +1,37 @@
+html{
+    background-color: gold;
+    margin: 10px;
+}
+
+#blockone{
+    display: inline-block;
+    width: 10%;
+    height: 70vh;
+    padding: 5em;
+    border-style: solid;
+    background-color: red;
+}
+#blocktwo{
+    display: inline-block;
+    width: 10%;
+    height: 70vh;
+    padding: 5em;
+    border-style: solid;
+    background-color: green;
+}
+#blockthree{
+    display: inline-block;
+    width: 10%;
+    height: 70vh;
+    padding: 5em;
+    border-style: solid;
+    background-color: blue;
+}
+#blockfour{
+    display: inline-block;
+    width: 10%;
+    height: 70vh;
+    padding: 5em;
+    border-style: solid;
+    background-color: purple;
+}
